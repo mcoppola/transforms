@@ -1,0 +1,694 @@
+section{z-index:1000;position:fixed;display:block;overflow:hidden;margin:0;padding:0;width:5%;height:11%; pointer-events: hover;}
+section.a11{top:0;left:0}
+section.a12{top:0;left:5%;}
+section.a13{top:0;left:10%;}
+section.a14{top:0;left:15%;}
+section.a15{top:0;left:20%;}
+section.a16{top:0;left:25%;}
+section.a17{top:0;left:30%;}
+section.a18{top:0;left:35%;}
+section.a19{top:0;left:40%;}
+section.a110{top:0;left:45%;width: 10%;}
+section.a111{top:0%;right:40%}
+section.a112{top:0%;right:35%;}
+section.a113{top:0%;right:30%;}
+section.a114{top:0%;right:25%;}
+section.a115{top:0%;right:20%;}
+section.a116{top:0%;right:15%;}
+section.a117{top:0%;right:10%;}
+section.a118{top:0%;right:5%;}
+section.a119{top:0%;right:0%;}
+
+section.a21{top:11%;left:0}
+section.a22{top:11%;left:5%;}
+section.a23{top:11%;left:10%;}
+section.a24{top:11%;left:15%;}
+section.a25{top:11%;left:20%;}
+section.a26{top:11%;left:25%;}
+section.a27{top:11%;left:30%;}
+section.a28{top:11%;left:35%;}
+section.a29{top:11%;left:40%;}
+section.a210{top:11%;left:45%;width: 10%;}
+section.a211{top:11%;right:40%}
+section.a212{top:11%;right:35%;}
+section.a213{top:11%;right:30%;}
+section.a214{top:11%;right:25%;}
+section.a215{top:11%;right:20%;}
+section.a216{top:11%;right:15%;}
+section.a217{top:11%;right:10%;}
+section.a218{top:11%;right:5%;}
+section.a219{top:11%;right:0%;}
+
+section.a31{top:22%left:0}
+section.a32{top:22%;left:5%;}
+section.a33{top:22%;left:10%;}
+section.a34{top:22%;left:15%;}
+section.a35{top:22%;left:20%;}
+section.a36{top:22%;left:25%;}
+section.a37{top:22%;left:30%;}
+section.a38{top:22%;left:35%;}
+section.a39{top:22%;left:40%;}
+section.a310{top:22%;left:45%;width: 10%;}
+section.a311{top:22%;right:40%}
+section.a312{top:22%;right:35%;}
+section.a313{top:22%;right:30%;}
+section.a314{top:22%;right:25%;}
+section.a315{top:22%;right:20%;}
+section.a316{top:22%;right:15%;}
+section.a317{top:22%;right:10%;}
+section.a318{top:22%;right:5%;}
+section.a219{top:22%;right:0%;}
+
+section.a41{top:33%;left:0}
+section.a42{top:33%;left:5%;}
+section.a43{top:33%;left:10%;}
+section.a44{top:33%;left:15%;}
+section.a45{top:33%;left:20%;}
+section.a46{top:33%;left:25%;}
+section.a47{top:33%;left:30%;}
+section.a48{top:33%;left:35%;}
+section.a49{top:33%;left:40%;}
+section.a410{top:33%;left:45%;width: 10%;}
+section.a411{top:33%;right:40%}
+section.a412{top:33%;right:35%;}
+section.a413{top:33%;right:30%;}
+section.a414{top:33%;right:25%;}
+section.a415{top:33%;right:20%;}
+section.a416{top:33%;right:15%;}
+section.a417{top:33%;right:10%;}
+section.a418{top:33%;right:5%;}
+section.a419{top:33%;right:0%;}
+
+section.a51{top:44%;left:0}
+section.a52{top:44%;left:5%;}
+section.a53{top:44%;left:10%;}
+section.a54{top:44%;left:15%;}
+section.a55{top:44%;left:20%;}
+section.a56{top:44%;left:25%;}
+section.a57{top:44%;left:30%;}
+section.a58{top:44%;left:35%;}
+section.a59{top:44%;left:40%;}
+/*section.a210{top:44%;left:45%;width: 10%;}*/
+section.a511{top:44%;right:40%}
+section.a512{top:44%;right:35%;}
+section.a513{top:44%;right:30%;}
+section.a514{top:44%;right:25%;}
+section.a515{top:44%;right:20%;}
+section.a516{top:44%;right:15%;}
+section.a517{top:44%;right:10%;}
+section.a518{top:44%;right:5%;}
+section.a519{top:44%;right:0%;}
+
+section.a61{top:55%; left:0}
+section.a62{top:55%; left:5%;}
+section.a63{top:55%; left:10%;}
+section.a64{top:55%; left:15%;}
+section.a65{top:55%; left:20%;}
+section.a66{top:55%; left:25%;}
+section.a67{top:55%; left:30%;}
+section.a68{top:55%; left:35%;}
+section.a69{top:55%; left:40%;}
+section.a610{top:55%;left:45%;width: 10%;}
+section.a611{top:55%;right:40%}
+section.a612{top:55%;right:35%;}
+section.a613{top:55%;right:30%;}
+section.a614{top:55%;right:25%;}
+section.a615{top:55%;right:20%;}
+section.a616{top:55%;right:15%;}
+section.a617{top:55%;right:10%;}
+section.a618{top:55%;right:5%;}
+section.a619{top:55%;right:0%;}
+
+section.a71{top:66%; left:0}
+section.a72{top:66%; left:5%;}
+section.a73{top:66%; left:10%;}
+section.a74{top:66%; left:15%;}
+section.a75{top:66%; left:20%;}
+section.a76{top:66%; left:25%;}
+section.a77{top:66%; left:30%;}
+section.a78{top:66%; left:35%;}
+section.a79{top:66%; left:40%;}
+section.a710{top:66%;left:45%;width: 10%;}
+section.a711{top:66%;right:40%}
+section.a712{top:66%;right:35%;}
+section.a713{top:66%;right:30%;}
+section.a714{top:66%;right:25%;}
+section.a715{top:66%;right:20%;}
+section.a716{top:66%;right:15%;}
+section.a717{top:66%;right:10%;}
+section.a718{top:66%;right:5%;}
+section.a719{top:66%;right:0%;}
+
+section.a81{top:77%;left:0}
+section.a82{top:77%;left:5%;}
+section.a83{top:77%;left:10%;}
+section.a84{top:77%;left:15%;}
+section.a85{top:77%;left:20%;}
+section.a86{top:77%;left:25%;}
+section.a87{top:77%;left:30%;}
+section.a88{top:77%;left:35%;}
+section.a89{top:77%;left:40%;}
+section.a810{top:77%;left:45%;width: 10%;}
+section.a811{top:77%;right:40%}
+section.a812{top:77%;right:35%;}
+section.a813{top:77%;right:30%;}
+section.a814{top:77%;right:25%;}
+section.a815{top:77%;right:20%;}
+section.a816{top:77%;right:15%;}
+section.a817{top:77%;right:10%;}
+section.a818{top:77%;right:5%;}
+section.a819{top:77%;right:0%;}
+
+section.a91{top:88%; left:0}
+section.a92{top:88%; left:5%;}
+section.a93{top:88%; left:10%;}
+section.a94{top:88%; left:15%;}
+section.a95{top:88%; left:20%;}
+section.a96{top:88%; left:25%;}
+section.a97{top:88%; left:30%;}
+section.a98{top:88%; left:35%;}
+section.a99{top:88%; left:40%;}
+section.a910{top:88%;left:45%;width: 10%;}
+section.a911{top:88%;right:40%}
+section.a912{top:88%;right:35%;}
+section.a913{top:88%;right:30%;}
+section.a914{top:88%;right:25%;}
+section.a915{top:88%;right:20%;}
+section.a916{top:88%;right:15%;}
+section.a917{top:88%;right:10%;}
+section.a918{top:88%;right:5%;}
+section.a919{top:88%;right:0%;}
+
+
+
+
+section.a11:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 135px;}
+section.a12:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 120px; }
+section.a13:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 105px; }
+section.a14:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 90px; }
+section.a15:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 75px; }
+section.a16:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 60px; }
+section.a17:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 45px; }
+section.a18:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 30px; }
+section.a19:hover  ~ .layers > .p-group > .layer{ top: 40px; left: 15px;}
+section.a110:hover ~ .layers > .p-group > .layer{ top: 40px; }
+section.a111:hover ~ .layers > .p-group > .layer{ top: 40px; right: 15px;}
+section.a112:hover ~ .layers > .p-group > .layer{ top: 40px; right: 30px; }
+section.a113:hover ~ .layers > .p-group > .layer{ top: 40px; right: 45px; }
+section.a114:hover ~ .layers > .p-group > .layer{ top: 40px; right: 60px; }
+section.a115:hover ~ .layers > .p-group > .layer{ top: 40px; right: 75px; }
+section.a116:hover ~ .layers > .p-group > .layer{ top: 40px; right: 90px; }
+section.a117:hover ~ .layers > .p-group > .layer{ top: 40px; right: 105px; }
+section.a118:hover ~ .layers > .p-group > .layer{ top: 40px; right: 110px; }
+section.a119:hover ~ .layers > .p-group > .layer{ top: 40px; right: 130px;}
+
+section.a21:hover  ~ .layers > .p-group > .layer{top: 30px; left: 135px;}
+section.a22:hover  ~ .layers > .p-group > .layer{top: 30px; left: 120px; }
+section.a23:hover  ~ .layers > .p-group > .layer{top: 30px; left: 105px; }
+section.a24:hover  ~ .layers > .p-group > .layer{top: 30px; left: 90px; }
+section.a25:hover  ~ .layers > .p-group > .layer{top: 30px; left: 75px; }
+section.a26:hover  ~ .layers > .p-group > .layer{top: 30px; left: 60px; }
+section.a27:hover  ~ .layers > .p-group > .layer{top: 30px; left: 45px; }
+section.a28:hover  ~ .layers > .p-group > .layer{top: 30px; left: 30px; }
+section.a29:hover  ~ .layers > .p-group > .layer{top: 30px; left: 15px;}
+section.a210:hover ~ .layers > .p-group > .layer{top: 30px; }
+section.a211:hover ~ .layers > .p-group > .layer{top: 30px; right: 15px;}
+section.a212:hover ~ .layers > .p-group > .layer{top: 30px; right: 30px; }
+section.a213:hover ~ .layers > .p-group > .layer{top: 30px; right: 45px; }
+section.a214:hover ~ .layers > .p-group > .layer{top: 30px; right: 60px; }
+section.a215:hover ~ .layers > .p-group > .layer{top: 30px; right: 75px; }
+section.a216:hover ~ .layers > .p-group > .layer{top: 30px; right: 90px; }
+section.a217:hover ~ .layers > .p-group > .layer{top: 30px; right: 105px; }
+section.a218:hover ~ .layers > .p-group > .layer{top: 30px; right: 110px; }
+section.a119:hover ~ .layers > .p-group > .layer{top: 30px; right: 130px;}
+
+section.a31:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 135px;}
+section.a32:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 120px; }
+section.a33:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 105px; }
+section.a34:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 90px; }
+section.a35:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 75px; }
+section.a36:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 60px; }
+section.a37:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 45px; }
+section.a38:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 30px; }
+section.a39:hover  ~ .layers > .p-group > .layer{ top: 20px; left: 15px;}
+section.a310:hover ~ .layers > .p-group > .layer{ top: 20px; }
+section.a311:hover ~ .layers > .p-group > .layer{ top: 20px; right: 15px;}
+section.a312:hover ~ .layers > .p-group > .layer{ top: 20px; right: 30px; }
+section.a313:hover ~ .layers > .p-group > .layer{ top: 20px; right: 45px; }
+section.a314:hover ~ .layers > .p-group > .layer{ top: 20px; right: 60px; }
+section.a315:hover ~ .layers > .p-group > .layer{ top: 20px; right: 75px; }
+section.a316:hover ~ .layers > .p-group > .layer{ top: 20px; right: 90px; }
+section.a317:hover ~ .layers > .p-group > .layer{ top: 20px; right: 105px; }
+section.a318:hover ~ .layers > .p-group > .layer{ top: 20px; right: 110px; }
+section.a319:hover ~ .layers > .p-group > .layer{ top: 20px; right: 130px;}
+
+section.a41:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 135px;}
+section.a42:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 120px; }
+section.a43:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 105px; }
+section.a44:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 90px; }
+section.a45:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 75px; }
+section.a46:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 60px; }
+section.a47:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 45px; }
+section.a48:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 30px; }
+section.a49:hover  ~ .layers > .p-group > .layer{ top: 10px; left: 15px;}
+section.a410:hover ~ .layers > .p-group > .layer{ top: 10px; }
+section.a411:hover ~ .layers > .p-group > .layer{ top: 10px; right: 15px;}
+section.a412:hover ~ .layers > .p-group > .layer{ top: 10px; right: 30px; }
+section.a413:hover ~ .layers > .p-group > .layer{ top: 10px; right: 45px; }
+section.a414:hover ~ .layers > .p-group > .layer{ top: 10px; right: 60px; }
+section.a415:hover ~ .layers > .p-group > .layer{ top: 10px; right: 75px; }
+section.a416:hover ~ .layers > .p-group > .layer{ top: 10px; right: 90px; }
+section.a417:hover ~ .layers > .p-group > .layer{ top: 10px; right: 105px; }
+section.a418:hover ~ .layers > .p-group > .layer{ top: 10px; right: 110px; }
+section.a419:hover ~ .layers > .p-group > .layer{ top: 10px; right: 130px;}
+
+section.a51:hover  ~ .layers > .p-group > .layer{ left: 135px;}
+section.a52:hover  ~ .layers > .p-group > .layer{ left: 120px; }
+section.a53:hover  ~ .layers > .p-group > .layer{ left: 105px; }
+section.a54:hover  ~ .layers > .p-group > .layer{ left: 90px; }
+section.a55:hover  ~ .layers > .p-group > .layer{ left: 75px; }
+section.a56:hover  ~ .layers > .p-group > .layer{ left: 60px; }
+section.a57:hover  ~ .layers > .p-group > .layer{ left: 45px; }
+section.a58:hover  ~ .layers > .p-group > .layer{ left: 30px; }
+section.a59:hover  ~ .layers > .p-group > .layer{ left: 15px;}
+section.a510:hover ~ .layers > .p-group > .layer{ }
+section.a511:hover ~ .layers > .p-group > .layer{ right: 15px;}
+section.a512:hover ~ .layers > .p-group > .layer{ right: 30px; }
+section.a513:hover ~ .layers > .p-group > .layer{ right: 45px; }
+section.a514:hover ~ .layers > .p-group > .layer{ right: 60px; }
+section.a515:hover ~ .layers > .p-group > .layer{ right: 75px; }
+section.a516:hover ~ .layers > .p-group > .layer{ right: 90px; }
+section.a517:hover ~ .layers > .p-group > .layer{ right: 105px; }
+section.a518:hover ~ .layers > .p-group > .layer{ right: 110px; }
+section.a519:hover ~ .layers > .p-group > .layer{ right: 130px;}
+
+section.a61:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 135px;}
+section.a62:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 120px; }
+section.a63:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 105px; }
+section.a64:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 90px; }
+section.a65:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 75px; }
+section.a66:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 60px; }
+section.a67:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 45px; }
+section.a68:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 30px; }
+section.a69:hover  ~ .layers > .p-group > .layer{ bottom: 20px; left: 15px;}
+section.a610:hover ~ .layers > .p-group > .layer{ bottom: 20px; }
+section.a611:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 15px;}
+section.a612:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 30px; }
+section.a613:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 45px; }
+section.a614:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 60px; }
+section.a615:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 75px; }
+section.a616:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 90px; }
+section.a617:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 105px; }
+section.a618:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 110px; }
+section.a619:hover ~ .layers > .p-group > .layer{ bottom: 20px; right: 130px;}
+
+section.a71:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 135px;}
+section.a72:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 120px; }
+section.a73:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 105px; }
+section.a74:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 90px; }
+section.a75:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 75px; }
+section.a76:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 60px; }
+section.a77:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 45px; }
+section.a78:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 30px; }
+section.a79:hover  ~ .layers > .p-group > .layer{ bottom: 40px; left: 15px;}
+section.a710:hover ~ .layers > .p-group > .layer{ bottom: 40px; }
+section.a711:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 15px;}
+section.a712:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 30px; }
+section.a713:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 45px; }
+section.a714:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 60px; }
+section.a715:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 75px; }
+section.a716:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 90px; }
+section.a717:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 105px; }
+section.a718:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 110px; }
+section.a719:hover ~ .layers > .p-group > .layer{ bottom: 40px; right: 130px;}
+
+section.a81:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 135px;}
+section.a82:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 120px; }
+section.a83:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 105px; }
+section.a84:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 90px; }
+section.a85:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 75px; }
+section.a86:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 60px; }
+section.a87:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 45px; }
+section.a88:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 30px; }
+section.a89:hover  ~ .layers > .p-group > .layer{ bottom: 60px; left: 15px;}
+section.a810:hover ~ .layers > .p-group > .layer{ bottom: 60px; }
+section.a811:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 15px;}
+section.a812:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 30px; }
+section.a813:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 45px; }
+section.a814:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 60px; }
+section.a815:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 75px; }
+section.a816:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 90px; }
+section.a817:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 105px; }
+section.a818:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 110px; }
+section.a819:hover ~ .layers > .p-group > .layer{ bottom: 60px; right: 130px;}
+
+section.a91:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 135px;}
+section.a92:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 120px; }
+section.a93:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 105px; }
+section.a94:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 90px; }
+section.a95:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 75px; }
+section.a96:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 60px; }
+section.a97:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 45px; }
+section.a98:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 30px; }
+section.a99:hover  ~ .layers > .p-group > .layer{ bottom: 80px; left: 15px;}
+section.a910:hover ~ .layers > .p-group > .layer{ bottom: 80px; }
+section.a911:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 15px;}
+section.a912:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 30px; }
+section.a913:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 45px; }
+section.a914:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 60px; }
+section.a915:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 75px; }
+section.a916:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 90px; }
+section.a917:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 105px; }
+section.a918:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 110px; }
+section.a919:hover ~ .layers > .p-group > .layer{ bottom: 80px; right: 130px;}
+
+
+section.a11:hover ~ .layers { transform: rotateY(72deg);}
+section.a21:hover ~ .layers { transform: rotateY(72deg);}
+section.a31:hover ~ .layers { transform: rotateY(72deg);}
+section.a41:hover ~ .layers { transform: rotateY(72deg);}
+section.a51:hover ~ .layers { transform: rotateY(72deg);}
+section.a61:hover ~ .layers { transform: rotateY(72deg);}
+section.a71:hover ~ .layers { transform: rotateY(72deg);}
+section.a81:hover ~ .layers { transform: rotateY(72deg);}
+section.a91:hover ~ .layers { transform: rotateY(72deg);}
+
+section.a12:hover ~ .layers { transform: rotateY(64deg);}
+section.a22:hover ~ .layers { transform: rotateY(64deg);}
+section.a32:hover ~ .layers { transform: rotateY(64deg);}
+section.a42:hover ~ .layers { transform: rotateY(64deg);}
+section.a52:hover ~ .layers { transform: rotateY(64deg);}
+section.a62:hover ~ .layers { transform: rotateY(64deg);}
+section.a72:hover ~ .layers { transform: rotateY(64deg);}
+section.a82:hover ~ .layers { transform: rotateY(64deg);}
+section.a92:hover ~ .layers { transform: rotateY(64deg);}
+
+section.a13:hover ~ .layers { transform: rotateY(56deg);}
+section.a23:hover ~ .layers { transform: rotateY(56deg);}
+section.a33:hover ~ .layers { transform: rotateY(56deg);}
+section.a43:hover ~ .layers { transform: rotateY(56deg);}
+section.a53:hover ~ .layers { transform: rotateY(56deg);}
+section.a63:hover ~ .layers { transform: rotateY(56deg);}
+section.a73:hover ~ .layers { transform: rotateY(56deg);}
+section.a83:hover ~ .layers { transform: rotateY(56deg);}
+section.a93:hover ~ .layers { transform: rotateY(56deg);}
+
+section.a14:hover ~ .layers { transform: rotateY(48deg);}
+section.a24:hover ~ .layers { transform: rotateY(48deg);}
+section.a34:hover ~ .layers { transform: rotateY(48deg);}
+section.a44:hover ~ .layers { transform: rotateY(48deg);}
+section.a54:hover ~ .layers { transform: rotateY(48deg);}
+section.a64:hover ~ .layers { transform: rotateY(48deg);}
+section.a74:hover ~ .layers { transform: rotateY(48deg);}
+section.a84:hover ~ .layers { transform: rotateY(48deg);}
+section.a94:hover ~ .layers { transform: rotateY(48deg);}
+
+section.a15:hover ~ .layers { transform: rotateY(40deg);}
+section.a25:hover ~ .layers { transform: rotateY(40deg);}
+section.a35:hover ~ .layers { transform: rotateY(40deg);}
+section.a45:hover ~ .layers { transform: rotateY(40deg);}
+section.a55:hover ~ .layers { transform: rotateY(40deg);}
+section.a65:hover ~ .layers { transform: rotateY(40deg);}
+section.a75:hover ~ .layers { transform: rotateY(40deg);}
+section.a85:hover ~ .layers { transform: rotateY(40deg);}
+section.a95:hover ~ .layers { transform: rotateY(40deg);}
+
+section.a16:hover ~ .layers { transform: rotateY(32deg);}
+section.a26:hover ~ .layers { transform: rotateY(32deg);}
+section.a36:hover ~ .layers { transform: rotateY(32deg);}
+section.a46:hover ~ .layers { transform: rotateY(32deg);}
+section.a56:hover ~ .layers { transform: rotateY(32deg);}
+section.a66:hover ~ .layers { transform: rotateY(32deg);}
+section.a76:hover ~ .layers { transform: rotateY(32deg);}
+section.a86:hover ~ .layers { transform: rotateY(32deg);}
+section.a96:hover ~ .layers { transform: rotateY(32deg);}
+
+section.a17:hover ~ .layers { transform: rotateY(24deg);}
+section.a27:hover ~ .layers { transform: rotateY(24deg);}
+section.a37:hover ~ .layers { transform: rotateY(24deg);}
+section.a47:hover ~ .layers { transform: rotateY(24deg);}
+section.a57:hover ~ .layers { transform: rotateY(24deg);}
+section.a67:hover ~ .layers { transform: rotateY(24deg);}
+section.a77:hover ~ .layers { transform: rotateY(24deg);}
+section.a87:hover ~ .layers { transform: rotateY(24deg);}
+section.a97:hover ~ .layers { transform: rotateY(24deg);}
+
+section.a18:hover ~ .layers { transform: rotateY(16deg);}
+section.a28:hover ~ .layers { transform: rotateY(16deg);}
+section.a38:hover ~ .layers { transform: rotateY(16deg);}
+section.a48:hover ~ .layers { transform: rotateY(16deg);}
+section.a58:hover ~ .layers { transform: rotateY(16deg);}
+section.a68:hover ~ .layers { transform: rotateY(16deg);}
+section.a78:hover ~ .layers { transform: rotateY(16deg);}
+section.a88:hover ~ .layers { transform: rotateY(16deg);}
+section.a98:hover ~ .layers { transform: rotateY(16deg);}
+
+section.a19:hover ~ .layers { transform: rotateY(8deg);}
+section.a29:hover ~ .layers { transform: rotateY(8deg);}
+section.a39:hover ~ .layers { transform: rotateY(8deg);}
+section.a49:hover ~ .layers { transform: rotateY(8deg);}
+section.a59:hover ~ .layers { transform: rotateY(8deg);}
+section.a69:hover ~ .layers { transform: rotateY(8deg);}
+section.a79:hover ~ .layers { transform: rotateY(8deg);}
+section.a89:hover ~ .layers { transform: rotateY(8deg);}
+section.a99:hover ~ .layers { transform: rotateY(8deg);}
+
+
+
+
+
+/*section.a110:hover ~ .layers { transform: rotateY(72deg);}*/
+/*section.a210:hover ~ .layers { transform: rotateY(72deg);}*/
+/*section.a310:hover ~ .layers { transform: rotateY(72deg);}*/
+/*section.a410:hover ~ .layers { transform: rotateY(72deg);}*/
+/*section.a510:hover ~ .layers { transform: rotateY(72deg);}*/
+/*section.a610:hover ~ .layers { transform: rotateY(72deg);}*/
+/*section.a710:hover ~ .layers { transform: rotateY(72deg);}*/
+/*section.a810:hover ~ .layers { transform: rotateY(72deg);}*/
+/*section.a910:hover ~ .layers { transform: rotateY(72deg);}*/
+
+section.a111:hover ~ .layers { transform: rotateY(-8deg);}
+section.a211:hover ~ .layers { transform: rotateY(-8deg);}
+section.a311:hover ~ .layers { transform: rotateY(-8deg);}
+section.a411:hover ~ .layers { transform: rotateY(-8deg);}
+section.a511:hover ~ .layers { transform: rotateY(-8deg);}
+section.a611:hover ~ .layers { transform: rotateY(-8deg);}
+section.a711:hover ~ .layers { transform: rotateY(-8deg);}
+section.a811:hover ~ .layers { transform: rotateY(-8deg);}
+section.a911:hover ~ .layers { transform: rotateY(-8deg);}
+
+section.a112:hover ~ .layers { transform: rotateY(-16deg);}
+section.a212:hover ~ .layers { transform: rotateY(-16deg);}
+section.a312:hover ~ .layers { transform: rotateY(-16deg);}
+section.a412:hover ~ .layers { transform: rotateY(-16deg);}
+section.a512:hover ~ .layers { transform: rotateY(-16deg);}
+section.a612:hover ~ .layers { transform: rotateY(-16deg);}
+section.a712:hover ~ .layers { transform: rotateY(-16deg);}
+section.a812:hover ~ .layers { transform: rotateY(-16deg);}
+section.a912:hover ~ .layers { transform: rotateY(-16deg);}
+
+section.a113:hover ~ .layers { transform: rotateY(-24deg);}
+section.a213:hover ~ .layers { transform: rotateY(-24deg);}
+section.a313:hover ~ .layers { transform: rotateY(-24deg);}
+section.a413:hover ~ .layers { transform: rotateY(-24deg);}
+section.a513:hover ~ .layers { transform: rotateY(-24deg);}
+section.a613:hover ~ .layers { transform: rotateY(-24deg);}
+section.a713:hover ~ .layers { transform: rotateY(-24deg);}
+section.a813:hover ~ .layers { transform: rotateY(-24deg);}
+section.a913:hover ~ .layers { transform: rotateY(-24deg);}
+
+section.a114:hover ~ .layers { transform: rotateY(-32deg);}
+section.a214:hover ~ .layers { transform: rotateY(-32deg);}
+section.a314:hover ~ .layers { transform: rotateY(-32deg);}
+section.a414:hover ~ .layers { transform: rotateY(-32deg);}
+section.a514:hover ~ .layers { transform: rotateY(-32deg);}
+section.a614:hover ~ .layers { transform: rotateY(-32deg);}
+section.a714:hover ~ .layers { transform: rotateY(-32deg);}
+section.a814:hover ~ .layers { transform: rotateY(-32deg);}
+section.a914:hover ~ .layers { transform: rotateY(-32deg);}
+
+section.a115:hover ~ .layers { transform: rotateY(-40deg);}
+section.a215:hover ~ .layers { transform: rotateY(-40deg);}
+section.a315:hover ~ .layers { transform: rotateY(-40deg);}
+section.a415:hover ~ .layers { transform: rotateY(-40deg);}
+section.a515:hover ~ .layers { transform: rotateY(-40deg);}
+section.a615:hover ~ .layers { transform: rotateY(-40deg);}
+section.a715:hover ~ .layers { transform: rotateY(-40deg);}
+section.a815:hover ~ .layers { transform: rotateY(-40deg);}
+section.a915:hover ~ .layers { transform: rotateY(-40deg);}
+
+section.a116:hover ~ .layers { transform: rotateY(-48deg);}
+section.a216:hover ~ .layers { transform: rotateY(-48deg);}
+section.a316:hover ~ .layers { transform: rotateY(-48deg);}
+section.a416:hover ~ .layers { transform: rotateY(-48deg);}
+section.a516:hover ~ .layers { transform: rotateY(-48deg);}
+section.a616:hover ~ .layers { transform: rotateY(-48deg);}
+section.a716:hover ~ .layers { transform: rotateY(-48deg);}
+section.a816:hover ~ .layers { transform: rotateY(-48deg);}
+section.a916:hover ~ .layers { transform: rotateY(-48deg);}
+
+section.a117:hover ~ .layers { transform: rotateY(-56deg);}
+section.a217:hover ~ .layers { transform: rotateY(-56deg);}
+section.a317:hover ~ .layers { transform: rotateY(-56deg);}
+section.a417:hover ~ .layers { transform: rotateY(-56deg);}
+section.a517:hover ~ .layers { transform: rotateY(-56deg);}
+section.a617:hover ~ .layers { transform: rotateY(-56deg);}
+section.a717:hover ~ .layers { transform: rotateY(-56deg);}
+section.a817:hover ~ .layers { transform: rotateY(-56deg);}
+section.a917:hover ~ .layers { transform: rotateY(-56deg);}
+
+section.a118:hover ~ .layers { transform: rotateY(-64deg);}
+section.a218:hover ~ .layers { transform: rotateY(-64deg);}
+section.a318:hover ~ .layers { transform: rotateY(-64deg);}
+section.a418:hover ~ .layers { transform: rotateY(-64deg);}
+section.a518:hover ~ .layers { transform: rotateY(-64deg);}
+section.a618:hover ~ .layers { transform: rotateY(-64deg);}
+section.a718:hover ~ .layers { transform: rotateY(-64deg);}
+section.a818:hover ~ .layers { transform: rotateY(-64deg);}
+section.a918:hover ~ .layers { transform: rotateY(-64deg);}
+
+section.a119:hover ~ .layers { transform: rotateY(-72deg);}
+section.a219:hover ~ .layers { transform: rotateY(-72deg);}
+section.a319:hover ~ .layers { transform: rotateY(-72deg);}
+section.a419:hover ~ .layers { transform: rotateY(-72deg);}
+section.a519:hover ~ .layers { transform: rotateY(-72deg);}
+section.a619:hover ~ .layers { transform: rotateY(-72deg);}
+section.a719:hover ~ .layers { transform: rotateY(-72deg);}
+section.a819:hover ~ .layers { transform: rotateY(-72deg);}
+section.a919:hover ~ .layers { transform: rotateY(-72deg);}
+
+
+
+
+
+body
+{
+  margin: 0;
+  background-color: #33ccff;
+  /*background-color: #A80C26;*/
+  /*background-color: #fff;*/
+  background-color: #dfaa00;
+}
+
+
+.layers {
+  perspective: 1px; 
+  height: 100vh;
+  /*min-width: 400px;*/
+  margin: 0 auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  color: #000;
+  font-size: 2em;   
+  text-align: center;
+  transform: rotateY(0deg) rotateZ(0deg);
+
+  -webkit-transition: transform .15s linear;
+  transition: transform .15s linear;
+
+}
+.layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  padding: 8em 0;
+  -webkit-transition:left .15s linear, right .15s linear, top .15s linear, bottom .15s linear;
+  transition:left .15s linear, right .15s linear, top .15s linear, bottom .15s linear;
+}
+
+
+.layer--base 
+{
+  transform: translateZ(0) scale(1);
+}
+.layer--back 
+{
+  transform: translateZ(-1px) scale(1.5);
+} 
+.layer--deep 
+{
+  transform: translateZ(-3px) scale(3);
+}
+.layer--deeper 
+{
+  transform: translateZ(-4px) scale(3.5);
+}
+.layer--deepest 
+{
+  transform: translateZ(-4px) scale(8);
+}
+
+
+
+.box
+{
+  position: relative;
+  width: 200px;
+  height: 200px;
+
+  margin: 0 auto;
+
+  border: 2px solid #fff;
+  box-shadow: 0 0 3px 1px rgba(0,0,0,0.2);
+}
+
+.box--inner
+{
+  padding: 2.5em;
+  color: white;
+}
+
+.box--front
+{
+  /*outline:1000px solid #33ccff;*/
+  /*outline:1000px solid #fff;*/
+  /*border: 3px solid #333;*/
+}
+
+.box--back
+{
+  outline: 4px solid #F9FAED;
+}
+.box--deep
+{
+  /*outline: 200px solid #F5E9B5;*/
+  /*background-color: #fff;*/
+}
+#space{
+  /*background-color: rgba(0,0,0,0.1);*/
+  /*background-color: rgba(51, 204, 255, 0.5);*/
+  /*opacity: 0.1;*/
+}
+
+#space, .stars {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;  
+}
+
+.stars:nth-of-type(3)
+{
+  left: 100px;
+  top: 40px;
+  transform: rotateZ(60deg);
+}
+
+
+.stars {
+  background-image: 
+    radial-gradient(2px 2px at 20px 30px, #eee, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 40px 70px, #fff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 50px 160px, #ddd, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 90px 40px, #fff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 130px 80px, #fff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 160px 120px, #ddd, rgba(0,0,0,0));
+  background-repeat: repeat;
+  background-size: 200px 200px;
+}
